@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9566C9BF-7239-FF9D-56CC-2D02D43D042A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VRGazeIndicator.cs">
+    <Files>
+      <File FileName="Assets/myAssets/scripts/VRLookWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets/myAssets/scripts/VRGaze.cs" Line="11" Column="31" />
+      <File FileName="Assets/VRGazeIndicator.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HCI group project prototype" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="myAssets" expanded="True">
+                <Node name="scripts" expanded="True" />
+              </Node>
+              <Node name="VRGazeIndicator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="42900959-f962-454d-98c7-9c1b121fd753" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
