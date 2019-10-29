@@ -1,0 +1,429 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-29T15:31:04.808+01:00
+  initializedAtString: 2019-10-29T15:29:59.058+01:00
+  entries:
+  - path: .collabignore
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/HCI group project prototype/xs/sqlite3/storage.ide
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/.vs/HCI group
+      project prototype/xs/sqlite3/storage.ide
+    projectPath: .vs/HCI group project prototype/xs/sqlite3/storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/HCI group project prototype/xs/UserPrefs.xml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/.vs/HCI group
+      project prototype/xs/UserPrefs.xml
+    projectPath: .vs/HCI group project prototype/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HCI group project prototype.sln
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/HCI group
+      project prototype.sln
+    projectPath: HCI group project prototype.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/assetDatabase3
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Collab/CollabSnapshot_cd96cbb0-8040-4327-bbfa-3989df52bc67.txt
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/Collab/CollabSnapshot_cd96cbb0-8040-4327-bbfa-3989df52bc67.txt
+    projectPath: Library/Collab/CollabSnapshot_cd96cbb0-8040-4327-bbfa-3989df52bc67.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library/metadata/72/720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ca/cac27a96d3ff34b2ea35138983ebab0c
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/metadata/ca/cac27a96d3ff34b2ea35138983ebab0c
+    projectPath: Library/metadata/ca/cac27a96d3ff34b2ea35138983ebab0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ProjectSettings.asset
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ProjectSettings.asset
+    projectPath: Library/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/87c199-mainStage.json
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/StateCache/Hierarchy/87c199-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/87c199-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/2f627d-mainStage.json
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Library/StateCache/SceneView/2f627d-mainStage.json
+    projectPath: Library/StateCache/SceneView/2f627d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/ProcessJobs/03e0717d568f8803d9eaec245250922f.lt
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/ProcessJobs/03e0717d568f8803d9eaec245250922f.lt
+    projectPath: Temp/ProcessJobs/03e0717d568f8803d9eaec245250922f.lt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ProcessJobs/03e0717d568f8803d9eaec245250922f.vis
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/ProcessJobs/03e0717d568f8803d9eaec245250922f.vis
+    projectPath: Temp/ProcessJobs/03e0717d568f8803d9eaec245250922f.vis
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ProcessJobs/25912c63c2d84ebdda9672e2b846704e.clust
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/ProcessJobs/25912c63c2d84ebdda9672e2b846704e.clust
+    projectPath: Temp/ProcessJobs/25912c63c2d84ebdda9672e2b846704e.clust
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ProcessJobs/3ba1b5ea67ecd3517e3e70b633785f97.lt
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/ProcessJobs/3ba1b5ea67ecd3517e3e70b633785f97.lt
+    projectPath: Temp/ProcessJobs/3ba1b5ea67ecd3517e3e70b633785f97.lt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ProcessJobs/3ba1b5ea67ecd3517e3e70b633785f97.vis
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/ProcessJobs/3ba1b5ea67ecd3517e3e70b633785f97.vis
+    projectPath: Temp/ProcessJobs/3ba1b5ea67ecd3517e3e70b633785f97.vis
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ProcessJobs/93f7d8cca3a91ec937c657869ee89e03.clust
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/ProcessJobs/93f7d8cca3a91ec937c657869ee89e03.clust
+    projectPath: Temp/ProcessJobs/93f7d8cca3a91ec937c657869ee89e03.clust
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ProcessJobs/c3ddd4981b875f932e005706369b5e99.bakert
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/ProcessJobs/c3ddd4981b875f932e005706369b5e99.bakert
+    projectPath: Temp/ProcessJobs/c3ddd4981b875f932e005706369b5e99.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Timeline.dll
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/Unity.Timeline.dll
+    projectPath: Temp/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Timeline.pdb
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/Unity.Timeline.pdb
+    projectPath: Temp/Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityLockfile
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-09f78342ea2144cbabfd76cf9a308a7a
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-09f78342ea2144cbabfd76cf9a308a7a
+    projectPath: Temp/UnityTempFile-09f78342ea2144cbabfd76cf9a308a7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-101d22f11e58f404788be495493205bb
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-101d22f11e58f404788be495493205bb
+    projectPath: Temp/UnityTempFile-101d22f11e58f404788be495493205bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2e9bd7a75330f4fcd994d31fd1352a2c
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-2e9bd7a75330f4fcd994d31fd1352a2c
+    projectPath: Temp/UnityTempFile-2e9bd7a75330f4fcd994d31fd1352a2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-556b6c51522fa4ea1bf9c83cab2eaa98
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-556b6c51522fa4ea1bf9c83cab2eaa98
+    projectPath: Temp/UnityTempFile-556b6c51522fa4ea1bf9c83cab2eaa98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6391e5629e7ef4bc4a2351499c59d8e8
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-6391e5629e7ef4bc4a2351499c59d8e8
+    projectPath: Temp/UnityTempFile-6391e5629e7ef4bc4a2351499c59d8e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7ce172fdf62654df5a6a4c8fc1b698ea
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-7ce172fdf62654df5a6a4c8fc1b698ea
+    projectPath: Temp/UnityTempFile-7ce172fdf62654df5a6a4c8fc1b698ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a1f24a3ab4f00421591ca09c9dc6e9ee
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-a1f24a3ab4f00421591ca09c9dc6e9ee
+    projectPath: Temp/UnityTempFile-a1f24a3ab4f00421591ca09c9dc6e9ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bd1940eccf04344f081d4047a2387abb
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-bd1940eccf04344f081d4047a2387abb
+    projectPath: Temp/UnityTempFile-bd1940eccf04344f081d4047a2387abb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d9ecdfdc453684b8da5e07cf69be07a3
+    fullPath: /Users/phucpham/Unity Projects/HCI group project prototype/Temp/UnityTempFile-d9ecdfdc453684b8da5e07cf69be07a3
+    projectPath: Temp/UnityTempFile-d9ecdfdc453684b8da5e07cf69be07a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
